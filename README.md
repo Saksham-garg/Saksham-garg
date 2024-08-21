@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Saksham Garg
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Saksham Garg.
+===================================================================================================================================
+
+I'm a `Software engineer`.
+------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham-garg&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-garg" /> </p>
 
 <p align="left"> <a href="[https://github.com/Saksham-garg/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=saksham-garg&theme=dracula)"><img src="https://github-profile-trophy.vercel.app/?username=saksham-garg&theme=dracula" alt="saksham-garg" /></a> </p>
