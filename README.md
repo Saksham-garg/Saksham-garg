@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Garg</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham-garg&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-garg" /> </p>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=saksham-garg&theme=dracula)"><img src="https://github-profile-trophy.vercel.app/?username=saksham-garg" alt="saksham-garg" /></a> </p>
+<p align="left"> <a href="[https://github.com/Saksham-garg/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=saksham-garg&theme=dracula)"><img src="https://github-profile-trophy.vercel.app/?username=saksham-garg&theme=dracula" alt="saksham-garg" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/saksham17568995" target="blank"><img src="https://img.shields.io/twitter/follow/saksham17568995?logo=twitter&style=for-the-badge" alt="saksham17568995" /></a> </p>
 
